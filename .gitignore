@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.next/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+data/generated/
+data/models/
+mlruns/
+*.log
+.DS_Store
