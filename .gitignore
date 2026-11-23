@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.next/
+*.sqlite3
+claimidoc.db
+training/mlruns/
+.pytest_cache/
+.ruff_cache/
+eval/results/*.json
