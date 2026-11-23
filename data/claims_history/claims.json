@@ -1,0 +1,237 @@
+{
+  "synthetic": true,
+  "policies": [
+    {
+      "policy_id": "P-1001",
+      "contract_doc_id": "CG-TR-CONFORT"
+    },
+    {
+      "policy_id": "P-1002",
+      "contract_doc_id": "CG-TR-PREMIUM"
+    },
+    {
+      "policy_id": "P-1003",
+      "contract_doc_id": "CG-TR-ESSENTIEL"
+    },
+    {
+      "policy_id": "P-1004",
+      "contract_doc_id": "CG-AT-STANDARD"
+    },
+    {
+      "policy_id": "P-1005",
+      "contract_doc_id": "CG-AT-BASIQUE"
+    },
+    {
+      "policy_id": "P-1006",
+      "contract_doc_id": "CG-TR-CONFORT"
+    },
+    {
+      "policy_id": "P-1007",
+      "contract_doc_id": "CG-AT-PLUS"
+    },
+    {
+      "policy_id": "P-1008",
+      "contract_doc_id": "CG-TR-PREMIUM"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "S-1001-1",
+      "policy_id": "P-1001",
+      "date": "2026-03-22",
+      "status": "en_cours",
+      "amount": 320,
+      "invoice_number": "F-19494",
+      "label": "Bris de glace"
+    },
+    {
+      "claim_id": "S-1001-2",
+      "policy_id": "P-1001",
+      "date": "2026-02-21",
+      "status": "en_cours",
+      "amount": 320,
+      "invoice_number": "F-76510",
+      "label": "Bris de pare-chocs"
+    },
+    {
+      "claim_id": "S-1001-3",
+      "policy_id": "P-1001",
+      "date": "2026-01-12",
+      "status": "clos",
+      "amount": 1250,
+      "invoice_number": "F-19156",
+      "label": "Bris de pare-chocs"
+    },
+    {
+      "claim_id": "S-1002-1",
+      "policy_id": "P-1002",
+      "date": "2026-09-23",
+      "status": "clos",
+      "amount": 2100,
+      "invoice_number": "F-26226",
+      "label": "Bris de pare-chocs"
+    },
+    {
+      "claim_id": "S-1003-1",
+      "policy_id": "P-1003",
+      "date": "2026-07-11",
+      "status": "clos",
+      "amount": 320,
+      "invoice_number": "F-82963",
+      "label": "Bris de pare-chocs"
+    },
+    {
+      "claim_id": "S-1004-1",
+      "policy_id": "P-1004",
+      "date": "2026-07-14",
+      "status": "en_cours",
+      "amount": 320,
+      "invoice_number": "F-84830",
+      "label": "Collision"
+    },
+    {
+      "claim_id": "S-1004-2",
+      "policy_id": "P-1004",
+      "date": "2026-09-15",
+      "status": "clos",
+      "amount": 2100,
+      "invoice_number": "F-84868",
+      "label": "Bris de glace"
+    },
+    {
+      "claim_id": "S-1004-3",
+      "policy_id": "P-1004",
+      "date": "2026-04-21",
+      "status": "clos",
+      "amount": 2100,
+      "invoice_number": "F-18229",
+      "label": "Bris de glace"
+    },
+    {
+      "claim_id": "S-1005-1",
+      "policy_id": "P-1005",
+      "date": "2026-04-25",
+      "status": "en_cours",
+      "amount": 2100,
+      "invoice_number": "F-66045",
+      "label": "Collision"
+    },
+    {
+      "claim_id": "S-1006-1",
+      "policy_id": "P-1006",
+      "date": "2026-08-21",
+      "status": "clos",
+      "amount": 480,
+      "invoice_number": "F-33562",
+      "label": "Bris de glace"
+    },
+    {
+      "claim_id": "S-1006-2",
+      "policy_id": "P-1006",
+      "date": "2026-04-12",
+      "status": "en_cours",
+      "amount": 760,
+      "invoice_number": "F-78838",
+      "label": "Collision"
+    },
+    {
+      "claim_id": "S-1006-3",
+      "policy_id": "P-1006",
+      "date": "2026-06-24",
+      "status": "clos",
+      "amount": 2100,
+      "invoice_number": "F-19594",
+      "label": "Bris de pare-chocs"
+    },
+    {
+      "claim_id": "S-1006-4",
+      "policy_id": "P-1006",
+      "date": "2026-09-23",
+      "status": "clos",
+      "amount": 760,
+      "invoice_number": "F-29920",
+      "label": "Collision"
+    },
+    {
+      "claim_id": "S-1007-1",
+      "policy_id": "P-1007",
+      "date": "2026-01-12",
+      "status": "en_cours",
+      "amount": 2100,
+      "invoice_number": "F-51123",
+      "label": "Collision"
+    },
+    {
+      "claim_id": "S-1007-2",
+      "policy_id": "P-1007",
+      "date": "2026-06-25",
+      "status": "en_cours",
+      "amount": 1250,
+      "invoice_number": "F-19012",
+      "label": "Bris de pare-chocs"
+    },
+    {
+      "claim_id": "S-1007-3",
+      "policy_id": "P-1007",
+      "date": "2026-05-25",
+      "status": "en_cours",
+      "amount": 320,
+      "invoice_number": "F-17952",
+      "label": "Bris de glace"
+    },
+    {
+      "claim_id": "S-1007-4",
+      "policy_id": "P-1007",
+      "date": "2026-05-28",
+      "status": "en_cours",
+      "amount": 1250,
+      "invoice_number": "F-47302",
+      "label": "Bris de glace"
+    },
+    {
+      "claim_id": "S-1008-1",
+      "policy_id": "P-1008",
+      "date": "2026-06-10",
+      "status": "clos",
+      "amount": 760,
+      "invoice_number": "F-32026",
+      "label": "Bris de glace"
+    },
+    {
+      "claim_id": "S-1008-2",
+      "policy_id": "P-1008",
+      "date": "2026-02-25",
+      "status": "clos",
+      "amount": 480,
+      "invoice_number": "F-47674",
+      "label": "Bris de pare-chocs"
+    },
+    {
+      "claim_id": "S-1008-3",
+      "policy_id": "P-1008",
+      "date": "2026-04-22",
+      "status": "clos",
+      "amount": 1250,
+      "invoice_number": "F-20561",
+      "label": "Bris de pare-chocs"
+    },
+    {
+      "claim_id": "S-1008-4",
+      "policy_id": "P-1008",
+      "date": "2026-08-22",
+      "status": "en_cours",
+      "amount": 760,
+      "invoice_number": "F-27947",
+      "label": "Collision"
+    },
+    {
+      "claim_id": "S-1001-9",
+      "policy_id": "P-1001",
+      "date": "2026-03-12",
+      "status": "clos",
+      "amount": 870,
+      "invoice_number": "F-20260",
+      "label": "Bris de pare-chocs"
+    }
+  ]
+}

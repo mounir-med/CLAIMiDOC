@@ -1,0 +1,1732 @@
+[
+  {
+    "doc_id": "CG-TR-ESSENTIEL",
+    "version": "2.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "conditions_generales",
+    "title": "Conditions générales Tous risques Essentiel",
+    "file": "tous_risques/CG-TR-ESSENTIEL_v2.0.pdf",
+    "is_current": true,
+    "scanned": true,
+    "facts": {
+      "franchise_bris_pare_chocs": 150,
+      "franchise_collision": 400,
+      "franchise_bris_glace": 60,
+      "franchise_vol_incendie": 300,
+      "plafond_pare_chocs": 4000,
+      "plafond_global": 12000,
+      "delai_declaration_jours": 7
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet du contrat",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicules assurés",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Garanties acquises",
+        "page": 1
+      },
+      {
+        "article": "4",
+        "title": "Dommages par collision",
+        "page": 2
+      },
+      {
+        "article": "5",
+        "title": "Bris de pare-chocs et éléments de carrosserie",
+        "page": 2
+      },
+      {
+        "article": "6",
+        "title": "Bris de glace",
+        "page": 2
+      },
+      {
+        "article": "7",
+        "title": "Vol et incendie",
+        "page": 3
+      },
+      {
+        "article": "8",
+        "title": "Plafonds d'indemnisation",
+        "page": 3
+      },
+      {
+        "article": "9",
+        "title": "Déclaration de sinistre",
+        "page": 3
+      },
+      {
+        "article": "10",
+        "title": "Expertise et réparation",
+        "page": 4
+      },
+      {
+        "article": "11",
+        "title": "Exclusions générales",
+        "page": 4
+      },
+      {
+        "article": "12",
+        "title": "Résiliation",
+        "page": 4
+      },
+      {
+        "article": "13",
+        "title": "Prescription",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "doc_id": "BAR-TR-ESSENTIEL",
+    "version": "2.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "bareme_franchise",
+    "title": "Barème des franchises Tous risques Essentiel",
+    "file": "tous_risques/BAR-TR-ESSENTIEL_v2.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 150,
+      "franchise_collision": 400,
+      "franchise_bris_glace": 60,
+      "franchise_vol_incendie": 300
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Barème des franchises par nature de sinistre",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Franchise majorée jeune conducteur",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Cumul de franchises",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "CG-TR-CONFORT",
+    "version": "2.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "conditions_generales",
+    "title": "Conditions générales Tous risques Confort",
+    "file": "tous_risques/CG-TR-CONFORT_v2.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 250,
+      "franchise_collision": 500,
+      "franchise_bris_glace": 90,
+      "franchise_vol_incendie": 450,
+      "plafond_pare_chocs": 6500,
+      "plafond_global": 20000,
+      "delai_declaration_jours": 5
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet du contrat",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicules assurés",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Garanties acquises",
+        "page": 1
+      },
+      {
+        "article": "4",
+        "title": "Dommages par collision",
+        "page": 2
+      },
+      {
+        "article": "5",
+        "title": "Bris de pare-chocs et éléments de carrosserie",
+        "page": 2
+      },
+      {
+        "article": "6",
+        "title": "Bris de glace",
+        "page": 2
+      },
+      {
+        "article": "7",
+        "title": "Vol et incendie",
+        "page": 3
+      },
+      {
+        "article": "8",
+        "title": "Plafonds d'indemnisation",
+        "page": 3
+      },
+      {
+        "article": "9",
+        "title": "Déclaration de sinistre",
+        "page": 3
+      },
+      {
+        "article": "10",
+        "title": "Expertise et réparation",
+        "page": 4
+      },
+      {
+        "article": "11",
+        "title": "Exclusions générales",
+        "page": 4
+      },
+      {
+        "article": "12",
+        "title": "Résiliation",
+        "page": 4
+      },
+      {
+        "article": "13",
+        "title": "Prescription",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "doc_id": "BAR-TR-CONFORT",
+    "version": "2.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "bareme_franchise",
+    "title": "Barème des franchises Tous risques Confort",
+    "file": "tous_risques/BAR-TR-CONFORT_v2.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 250,
+      "franchise_collision": 500,
+      "franchise_bris_glace": 90,
+      "franchise_vol_incendie": 450
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Barème des franchises par nature de sinistre",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Franchise majorée jeune conducteur",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Cumul de franchises",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "CG-TR-PREMIUM",
+    "version": "2.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "conditions_generales",
+    "title": "Conditions générales Tous risques Premium",
+    "file": "tous_risques/CG-TR-PREMIUM_v2.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 350,
+      "franchise_collision": 650,
+      "franchise_bris_glace": 120,
+      "franchise_vol_incendie": 600,
+      "plafond_pare_chocs": 9000,
+      "plafond_global": 35000,
+      "delai_declaration_jours": 5
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet du contrat",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicules assurés",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Garanties acquises",
+        "page": 1
+      },
+      {
+        "article": "4",
+        "title": "Dommages par collision",
+        "page": 2
+      },
+      {
+        "article": "5",
+        "title": "Bris de pare-chocs et éléments de carrosserie",
+        "page": 2
+      },
+      {
+        "article": "6",
+        "title": "Bris de glace",
+        "page": 2
+      },
+      {
+        "article": "7",
+        "title": "Vol et incendie",
+        "page": 3
+      },
+      {
+        "article": "8",
+        "title": "Plafonds d'indemnisation",
+        "page": 3
+      },
+      {
+        "article": "9",
+        "title": "Déclaration de sinistre",
+        "page": 3
+      },
+      {
+        "article": "10",
+        "title": "Expertise et réparation",
+        "page": 4
+      },
+      {
+        "article": "11",
+        "title": "Exclusions générales",
+        "page": 4
+      },
+      {
+        "article": "12",
+        "title": "Résiliation",
+        "page": 4
+      },
+      {
+        "article": "13",
+        "title": "Prescription",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "doc_id": "BAR-TR-PREMIUM",
+    "version": "2.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "bareme_franchise",
+    "title": "Barème des franchises Tous risques Premium",
+    "file": "tous_risques/BAR-TR-PREMIUM_v2.0.pdf",
+    "is_current": true,
+    "scanned": true,
+    "facts": {
+      "franchise_bris_pare_chocs": 350,
+      "franchise_collision": 650,
+      "franchise_bris_glace": 120,
+      "franchise_vol_incendie": 600
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Barème des franchises par nature de sinistre",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Franchise majorée jeune conducteur",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Cumul de franchises",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "AV-TR-01",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "avenant",
+    "title": "Avenant n°1 Tous risques",
+    "file": "tous_risques/AV-TR-01_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "type_avenant": "rachat_franchise",
+      "reduction_franchise": 150,
+      "surprime_annuelle": 36
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet de l'avenant",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Réduction de franchise",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Prise d'effet",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "AV-TR-02",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "avenant",
+    "title": "Avenant n°2 Tous risques",
+    "file": "tous_risques/AV-TR-02_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "type_avenant": "assistance",
+      "assistance_km": 25
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet de l'avenant",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Remorquage",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Véhicule de remplacement",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "AV-TR-03",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "avenant",
+    "title": "Avenant n°3 Tous risques",
+    "file": "tous_risques/AV-TR-03_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "type_avenant": "conducteur",
+      "garantie_conducteur": 100000
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet de l'avenant",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Capital garanti",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Exclusions de l'avenant",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "AV-TR-04",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "avenant",
+    "title": "Avenant n°4 Tous risques",
+    "file": "tous_risques/AV-TR-04_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "type_avenant": "revalorisation",
+      "revalorisation_pct": 2
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet de l'avenant",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Taux de revalorisation",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Information de l'assuré",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "EXC-TR-01",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "notice_exclusions",
+    "title": "Notice d'exclusions Tous risques n°1",
+    "file": "tous_risques/EXC-TR-01_v1.0.pdf",
+    "is_current": true,
+    "scanned": true,
+    "facts": {
+      "exclusions": [
+        "Alcool et stupéfiants",
+        "Usure normale et défaut d'entretien",
+        "Compétitions et courses"
+      ]
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Alcool et stupéfiants",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Usure normale et défaut d'entretien",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Compétitions et courses",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "GST-TR-01",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "interne",
+    "doc_type": "guide_gestionnaire",
+    "title": "Guide interne gestionnaire Tous risques n°1",
+    "file": "tous_risques/GST-TR-01_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "seuil_escalade": 3000,
+      "delai_traitement_jours": 10
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Pièces à exiger",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Seuil d'escalade",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Délai de traitement",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "EXC-TR-02",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "notice_exclusions",
+    "title": "Notice d'exclusions Tous risques n°2",
+    "file": "tous_risques/EXC-TR-02_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "exclusions": [
+        "Compétitions et courses",
+        "Dommages intentionnels",
+        "Véhicule non conforme"
+      ]
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Compétitions et courses",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Dommages intentionnels",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Véhicule non conforme",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "GST-TR-02",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "interne",
+    "doc_type": "guide_gestionnaire",
+    "title": "Guide interne gestionnaire Tous risques n°2",
+    "file": "tous_risques/GST-TR-02_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "seuil_escalade": 3000,
+      "delai_traitement_jours": 20
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Délai de traitement",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Rapprochement facture et photos",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Validation humaine",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "EXC-TR-03",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "notice_exclusions",
+    "title": "Notice d'exclusions Tous risques n°3",
+    "file": "tous_risques/EXC-TR-03_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "exclusions": [
+        "Dommages intentionnels",
+        "Véhicule non conforme",
+        "Objets transportés"
+      ]
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Dommages intentionnels",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicule non conforme",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Objets transportés",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "GST-TR-03",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "interne",
+    "doc_type": "guide_gestionnaire",
+    "title": "Guide interne gestionnaire Tous risques n°3",
+    "file": "tous_risques/GST-TR-03_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "seuil_escalade": 3000,
+      "delai_traitement_jours": 10
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Pièces à exiger",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Seuil d'escalade",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Délai de traitement",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "FRD-TR-01",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "restreint",
+    "doc_type": "procedure_fraude",
+    "title": "Procédure fraude (confidentiel) Tous risques n°1",
+    "file": "tous_risques/FRD-TR-01_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "code_indicateur": "R-18",
+      "confidentiel": true
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Indicateurs de fraude",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Seuil de signalement interne",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Contacts confidentiels",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "FRD-TR-02",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "restreint",
+    "doc_type": "procedure_fraude",
+    "title": "Procédure fraude (confidentiel) Tous risques n°2",
+    "file": "tous_risques/FRD-TR-02_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "code_indicateur": "R-19",
+      "confidentiel": true
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Indicateurs de fraude",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Seuil de signalement interne",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Contacts confidentiels",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "REF-PRIX-TR",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "interne",
+    "doc_type": "referentiel_prix",
+    "title": "Référentiel prix pièces Tous risques",
+    "file": "tous_risques/REF-PRIX-TR_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "tolerance_pct": 20
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Prix de référence des pièces (1/2)",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Prix de référence des pièces (2/2)",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Tolérance de contrôle",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "CG-TR-CONFORT",
+    "version": "1.0",
+    "famille": "tous_risques",
+    "niveau_acces": "public",
+    "doc_type": "conditions_generales",
+    "title": "Conditions générales Tous risques Confort",
+    "file": "tous_risques/CG-TR-CONFORT_v1.0.pdf",
+    "is_current": false,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 200,
+      "franchise_collision": 450,
+      "franchise_bris_glace": 90,
+      "franchise_vol_incendie": 450,
+      "plafond_pare_chocs": 6500,
+      "plafond_global": 20000,
+      "delai_declaration_jours": 7
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet du contrat",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicules assurés",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Garanties acquises",
+        "page": 1
+      },
+      {
+        "article": "4",
+        "title": "Dommages par collision",
+        "page": 2
+      },
+      {
+        "article": "5",
+        "title": "Bris de pare-chocs et éléments de carrosserie",
+        "page": 2
+      },
+      {
+        "article": "6",
+        "title": "Bris de glace",
+        "page": 2
+      },
+      {
+        "article": "7",
+        "title": "Vol et incendie",
+        "page": 3
+      },
+      {
+        "article": "8",
+        "title": "Plafonds d'indemnisation",
+        "page": 3
+      },
+      {
+        "article": "9",
+        "title": "Déclaration de sinistre",
+        "page": 3
+      },
+      {
+        "article": "10",
+        "title": "Expertise et réparation",
+        "page": 4
+      },
+      {
+        "article": "11",
+        "title": "Exclusions générales",
+        "page": 4
+      },
+      {
+        "article": "12",
+        "title": "Résiliation",
+        "page": 4
+      },
+      {
+        "article": "13",
+        "title": "Prescription",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "doc_id": "CG-AT-BASIQUE",
+    "version": "2.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "conditions_generales",
+    "title": "Conditions générales Au tiers Basique",
+    "file": "au_tiers/CG-AT-BASIQUE_v2.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 150,
+      "franchise_collision": 400,
+      "franchise_bris_glace": 60,
+      "franchise_vol_incendie": 300,
+      "plafond_pare_chocs": 4000,
+      "plafond_global": 12000,
+      "delai_declaration_jours": 5
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet du contrat",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicules assurés",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Garanties acquises",
+        "page": 1
+      },
+      {
+        "article": "4",
+        "title": "Dommages au véhicule assuré",
+        "page": 2
+      },
+      {
+        "article": "5",
+        "title": "Bris de glace (option)",
+        "page": 2
+      },
+      {
+        "article": "6",
+        "title": "Vol et incendie",
+        "page": 2
+      },
+      {
+        "article": "7",
+        "title": "Plafonds d'indemnisation",
+        "page": 3
+      },
+      {
+        "article": "8",
+        "title": "Déclaration de sinistre",
+        "page": 3
+      },
+      {
+        "article": "9",
+        "title": "Expertise et réparation",
+        "page": 3
+      },
+      {
+        "article": "10",
+        "title": "Exclusions générales",
+        "page": 4
+      },
+      {
+        "article": "11",
+        "title": "Résiliation",
+        "page": 4
+      },
+      {
+        "article": "12",
+        "title": "Prescription",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "doc_id": "BAR-AT-BASIQUE",
+    "version": "2.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "bareme_franchise",
+    "title": "Barème des franchises Au tiers Basique",
+    "file": "au_tiers/BAR-AT-BASIQUE_v2.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 150,
+      "franchise_collision": 400,
+      "franchise_bris_glace": 60,
+      "franchise_vol_incendie": 300
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Barème des franchises par nature de sinistre",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Franchise majorée jeune conducteur",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Cumul de franchises",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "CG-AT-STANDARD",
+    "version": "2.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "conditions_generales",
+    "title": "Conditions générales Au tiers Standard",
+    "file": "au_tiers/CG-AT-STANDARD_v2.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 250,
+      "franchise_collision": 500,
+      "franchise_bris_glace": 90,
+      "franchise_vol_incendie": 450,
+      "plafond_pare_chocs": 6500,
+      "plafond_global": 20000,
+      "delai_declaration_jours": 5
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet du contrat",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicules assurés",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Garanties acquises",
+        "page": 1
+      },
+      {
+        "article": "4",
+        "title": "Dommages au véhicule assuré",
+        "page": 2
+      },
+      {
+        "article": "5",
+        "title": "Bris de glace (option)",
+        "page": 2
+      },
+      {
+        "article": "6",
+        "title": "Vol et incendie",
+        "page": 2
+      },
+      {
+        "article": "7",
+        "title": "Plafonds d'indemnisation",
+        "page": 3
+      },
+      {
+        "article": "8",
+        "title": "Déclaration de sinistre",
+        "page": 3
+      },
+      {
+        "article": "9",
+        "title": "Expertise et réparation",
+        "page": 3
+      },
+      {
+        "article": "10",
+        "title": "Exclusions générales",
+        "page": 4
+      },
+      {
+        "article": "11",
+        "title": "Résiliation",
+        "page": 4
+      },
+      {
+        "article": "12",
+        "title": "Prescription",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "doc_id": "BAR-AT-STANDARD",
+    "version": "2.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "bareme_franchise",
+    "title": "Barème des franchises Au tiers Standard",
+    "file": "au_tiers/BAR-AT-STANDARD_v2.0.pdf",
+    "is_current": true,
+    "scanned": true,
+    "facts": {
+      "franchise_bris_pare_chocs": 250,
+      "franchise_collision": 500,
+      "franchise_bris_glace": 90,
+      "franchise_vol_incendie": 450
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Barème des franchises par nature de sinistre",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Franchise majorée jeune conducteur",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Cumul de franchises",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "CG-AT-PLUS",
+    "version": "2.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "conditions_generales",
+    "title": "Conditions générales Au tiers Plus",
+    "file": "au_tiers/CG-AT-PLUS_v2.0.pdf",
+    "is_current": true,
+    "scanned": true,
+    "facts": {
+      "franchise_bris_pare_chocs": 350,
+      "franchise_collision": 650,
+      "franchise_bris_glace": 120,
+      "franchise_vol_incendie": 600,
+      "plafond_pare_chocs": 9000,
+      "plafond_global": 35000,
+      "delai_declaration_jours": 5
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet du contrat",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicules assurés",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Garanties acquises",
+        "page": 1
+      },
+      {
+        "article": "4",
+        "title": "Dommages au véhicule assuré",
+        "page": 2
+      },
+      {
+        "article": "5",
+        "title": "Bris de glace (option)",
+        "page": 2
+      },
+      {
+        "article": "6",
+        "title": "Vol et incendie",
+        "page": 2
+      },
+      {
+        "article": "7",
+        "title": "Plafonds d'indemnisation",
+        "page": 3
+      },
+      {
+        "article": "8",
+        "title": "Déclaration de sinistre",
+        "page": 3
+      },
+      {
+        "article": "9",
+        "title": "Expertise et réparation",
+        "page": 3
+      },
+      {
+        "article": "10",
+        "title": "Exclusions générales",
+        "page": 4
+      },
+      {
+        "article": "11",
+        "title": "Résiliation",
+        "page": 4
+      },
+      {
+        "article": "12",
+        "title": "Prescription",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "doc_id": "BAR-AT-PLUS",
+    "version": "2.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "bareme_franchise",
+    "title": "Barème des franchises Au tiers Plus",
+    "file": "au_tiers/BAR-AT-PLUS_v2.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 350,
+      "franchise_collision": 650,
+      "franchise_bris_glace": 120,
+      "franchise_vol_incendie": 600
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Barème des franchises par nature de sinistre",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Franchise majorée jeune conducteur",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Cumul de franchises",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "AV-AT-01",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "avenant",
+    "title": "Avenant n°1 Au tiers",
+    "file": "au_tiers/AV-AT-01_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "type_avenant": "rachat_franchise",
+      "reduction_franchise": 50,
+      "surprime_annuelle": 24
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet de l'avenant",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Réduction de franchise",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Prise d'effet",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "AV-AT-02",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "avenant",
+    "title": "Avenant n°2 Au tiers",
+    "file": "au_tiers/AV-AT-02_v1.0.pdf",
+    "is_current": true,
+    "scanned": true,
+    "facts": {
+      "type_avenant": "assistance",
+      "assistance_km": 25
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet de l'avenant",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Remorquage",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Véhicule de remplacement",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "AV-AT-03",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "avenant",
+    "title": "Avenant n°3 Au tiers",
+    "file": "au_tiers/AV-AT-03_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "type_avenant": "conducteur",
+      "garantie_conducteur": 200000
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet de l'avenant",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Capital garanti",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Exclusions de l'avenant",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "AV-AT-04",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "avenant",
+    "title": "Avenant n°4 Au tiers",
+    "file": "au_tiers/AV-AT-04_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "type_avenant": "revalorisation",
+      "revalorisation_pct": 2
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet de l'avenant",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Taux de revalorisation",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Information de l'assuré",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "EXC-AT-01",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "notice_exclusions",
+    "title": "Notice d'exclusions Au tiers n°1",
+    "file": "au_tiers/EXC-AT-01_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "exclusions": [
+        "Alcool et stupéfiants",
+        "Usure normale et défaut d'entretien",
+        "Compétitions et courses"
+      ]
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Alcool et stupéfiants",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Usure normale et défaut d'entretien",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Compétitions et courses",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "GST-AT-01",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "interne",
+    "doc_type": "guide_gestionnaire",
+    "title": "Guide interne gestionnaire Au tiers n°1",
+    "file": "au_tiers/GST-AT-01_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "seuil_escalade": 3000,
+      "delai_traitement_jours": 10
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Pièces à exiger",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Seuil d'escalade",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Délai de traitement",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "EXC-AT-02",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "notice_exclusions",
+    "title": "Notice d'exclusions Au tiers n°2",
+    "file": "au_tiers/EXC-AT-02_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "exclusions": [
+        "Compétitions et courses",
+        "Dommages intentionnels",
+        "Véhicule non conforme"
+      ]
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Compétitions et courses",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Dommages intentionnels",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Véhicule non conforme",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "GST-AT-02",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "interne",
+    "doc_type": "guide_gestionnaire",
+    "title": "Guide interne gestionnaire Au tiers n°2",
+    "file": "au_tiers/GST-AT-02_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "seuil_escalade": 3000,
+      "delai_traitement_jours": 20
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Délai de traitement",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Rapprochement facture et photos",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Validation humaine",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "EXC-AT-03",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "notice_exclusions",
+    "title": "Notice d'exclusions Au tiers n°3",
+    "file": "au_tiers/EXC-AT-03_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "exclusions": [
+        "Dommages intentionnels",
+        "Véhicule non conforme",
+        "Objets transportés"
+      ]
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Dommages intentionnels",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicule non conforme",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Objets transportés",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "GST-AT-03",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "interne",
+    "doc_type": "guide_gestionnaire",
+    "title": "Guide interne gestionnaire Au tiers n°3",
+    "file": "au_tiers/GST-AT-03_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "seuil_escalade": 3000,
+      "delai_traitement_jours": 20
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Pièces à exiger",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Seuil d'escalade",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Délai de traitement",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "FRD-AT-01",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "restreint",
+    "doc_type": "procedure_fraude",
+    "title": "Procédure fraude (confidentiel) Au tiers n°1",
+    "file": "au_tiers/FRD-AT-01_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "code_indicateur": "R-18",
+      "confidentiel": true
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Indicateurs de fraude",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Seuil de signalement interne",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Contacts confidentiels",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "FRD-AT-02",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "restreint",
+    "doc_type": "procedure_fraude",
+    "title": "Procédure fraude (confidentiel) Au tiers n°2",
+    "file": "au_tiers/FRD-AT-02_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "code_indicateur": "R-19",
+      "confidentiel": true
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Indicateurs de fraude",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Seuil de signalement interne",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Contacts confidentiels",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "REF-PRIX-AT",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "interne",
+    "doc_type": "referentiel_prix",
+    "title": "Référentiel prix pièces Au tiers",
+    "file": "au_tiers/REF-PRIX-AT_v1.0.pdf",
+    "is_current": true,
+    "scanned": false,
+    "facts": {
+      "tolerance_pct": 20
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Prix de référence des pièces (1/2)",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Prix de référence des pièces (2/2)",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Tolérance de contrôle",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "doc_id": "CG-AT-STANDARD",
+    "version": "1.0",
+    "famille": "au_tiers",
+    "niveau_acces": "public",
+    "doc_type": "conditions_generales",
+    "title": "Conditions générales Au tiers Standard",
+    "file": "au_tiers/CG-AT-STANDARD_v1.0.pdf",
+    "is_current": false,
+    "scanned": false,
+    "facts": {
+      "franchise_bris_pare_chocs": 200,
+      "franchise_collision": 450,
+      "franchise_bris_glace": 90,
+      "franchise_vol_incendie": 450,
+      "plafond_pare_chocs": 6500,
+      "plafond_global": 20000,
+      "delai_declaration_jours": 5
+    },
+    "articles": [
+      {
+        "article": "1",
+        "title": "Objet du contrat",
+        "page": 1
+      },
+      {
+        "article": "2",
+        "title": "Véhicules assurés",
+        "page": 1
+      },
+      {
+        "article": "3",
+        "title": "Garanties acquises",
+        "page": 1
+      },
+      {
+        "article": "4",
+        "title": "Dommages au véhicule assuré",
+        "page": 2
+      },
+      {
+        "article": "5",
+        "title": "Bris de glace (option)",
+        "page": 2
+      },
+      {
+        "article": "6",
+        "title": "Vol et incendie",
+        "page": 2
+      },
+      {
+        "article": "7",
+        "title": "Plafonds d'indemnisation",
+        "page": 3
+      },
+      {
+        "article": "8",
+        "title": "Déclaration de sinistre",
+        "page": 3
+      },
+      {
+        "article": "9",
+        "title": "Expertise et réparation",
+        "page": 3
+      },
+      {
+        "article": "10",
+        "title": "Exclusions générales",
+        "page": 4
+      },
+      {
+        "article": "11",
+        "title": "Résiliation",
+        "page": 4
+      },
+      {
+        "article": "12",
+        "title": "Prescription",
+        "page": 4
+      }
+    ]
+  }
+]

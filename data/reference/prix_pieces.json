@@ -1,0 +1,19 @@
+{
+  "currency": "EUR",
+  "synthetic": true,
+  "tolerance_pct": 20,
+  "parts": {
+    "pare-chocs avant": 420,
+    "pare-chocs arrière": 390,
+    "aile avant": 350,
+    "capot": 610,
+    "rétroviseur": 180,
+    "phare avant": 390,
+    "feu arrière": 210,
+    "portière avant": 780,
+    "pare-brise": 520,
+    "jante": 240,
+    "calandre": 160,
+    "main d'oeuvre (heure)": 68
+  }
+}
